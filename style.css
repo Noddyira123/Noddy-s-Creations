@@ -1,0 +1,53 @@
+.link {
+    color:crimson;
+    display:inline;
+    padding-top: 5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom:5px;   
+}
+
+.link:hover {
+    background-color:beige;
+}
+
+
+#picture {
+ width:auto;
+  height:300px;
+    border-radius:0%px;
+    
+    margin:200px;
+    
+    
+}
+
+.food  {
+ background:#373B44;    /*fallback for old browsers    */
+    
+    backgroun:  linear-gradient(  #4286f4, #373B44) ; /*W3C,IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding-top: 20px;
+}
+img{
+    transition: transform.2s;
+    border: 10px solid #AAAAAA;
+    }
+img:hover{
+    /* Give transform property to scale to 0.9 */
+    transform: scale(0.9)
+    
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
